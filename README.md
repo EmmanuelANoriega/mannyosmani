@@ -284,7 +284,7 @@ Provided Tier 3 technical support for global enterprise customers within the **G
 | Language     | Proficiency                        |
 | ------------ | ---------------------------------- |
 | 🇲🇽 Spanish | Native                             |
-| 🇺🇸 English | Fluent — C1 / Business Proficiency |
+| 🇺🇸 English | Fluent — B2 / Business Proficiency |
 
 ---
 
