@@ -101,12 +101,15 @@ I've worked with global technology ecosystems including **Google, Microsoft, Sal
 
 ## 💻 Technology Stack
 
-### Operating Systems
+### Operating Systems & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
 ### Cloud & Enterprise
